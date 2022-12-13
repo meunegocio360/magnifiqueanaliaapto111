@@ -5,12 +5,12 @@
 ### URL
 LinkBehaviour_F307993D_E388_4E55_41DE_6CBE7FF60A83.source = http://www.loremipsum.com
 LinkBehaviour_C6CE799B_E388_CE5D_41E1_5EA0B7CF64F4.source = http://www.loremipsum.com
-WebFrame_245FE213_17C4_1F0B_41A4_D9A473C556C8_mobile.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d646.5360784547723!2d-46.56241887162702!3d-23.55549761611104!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce5e84f3b644b9%3A0xb9c4330d12fc90a6!2sMagnifique%20An%C3%A1lia%20Franco!5e0!3m2!1spt-BR!2sbr!4v1670264930025!5m2!1spt-BR!2sbr
 WebFrame_245FE213_17C4_1F0B_41A4_D9A473C556C8.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d646.5360784547723!2d-46.56241887162702!3d-23.55549761611104!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce5e84f3b644b9%3A0xb9c4330d12fc90a6!2sMagnifique%20An%C3%A1lia%20Franco!5e0!3m2!1spt-BR!2sbr!4v1670264930025!5m2!1spt-BR!2sbr
-LinkBehaviour_1760EFEA_0921_7761_4196_6027512994DD.source = https://www.imoveis.andradeesegura.com/
-LinkBehaviour_C6CE999D_E388_CE55_41D8_EF0EDADC388D.source = https://www.imoveis.andradeesegura.com/
+WebFrame_245FE213_17C4_1F0B_41A4_D9A473C556C8_mobile.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d646.5360784547723!2d-46.56241887162702!3d-23.55549761611104!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce5e84f3b644b9%3A0xb9c4330d12fc90a6!2sMagnifique%20An%C3%A1lia%20Franco!5e0!3m2!1spt-BR!2sbr!4v1670264930025!5m2!1spt-BR!2sbr
 LinkBehaviour_1499D09D_0921_E9A3_4185_C525369EFF81.source = https://www.imoveis.andradeesegura.com/
+LinkBehaviour_1760EFEA_0921_7761_4196_6027512994DD.source = https://www.imoveis.andradeesegura.com/
 LinkBehaviour_F306693D_E388_4E55_41EA_34B3DDF74F74.source = https://www.imoveis.andradeesegura.com/
+LinkBehaviour_C6CE999D_E388_CE55_41D8_EF0EDADC388D.source = https://www.imoveis.andradeesegura.com/
 LinkBehaviour_C6CDA99E_E388_CE57_41E5_94BF18AAEA3D.source = https://www.instagram.com/meunegocioweb360/
 
 ## Hotspot
