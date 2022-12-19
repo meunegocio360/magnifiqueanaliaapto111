@@ -1,4 +1,8 @@
 {
+ "background_color": "#FFFFFF",
+ "name": "Magnifique Anália Franco - Apto 111 - Tour Virtual 360°",
+ "description": " Rua Luiz dos Santos Cabral, 260 - Jardim Analia Franco, São Paulo - SP",
+ "start_url": "index.htm",
  "icons": [
   {
    "sizes": "150x150",
@@ -36,10 +40,6 @@
    "src": "misc/icon64.png"
   }
  ],
- "background_color": "#FFFFFF",
- "start_url": "index.htm",
- "description": " Rua Luiz dos Santos Cabral, 260 - Jardim Analia Franco, São Paulo - SP",
  "display": "fullscreen",
- "theme_color": "#FFFFFF",
- "name": "Magnifique Anália Franco - Apto 111 - Tour Virtual 360°"
+ "theme_color": "#FFFFFF"
 }
